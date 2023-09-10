@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thecoolerdan1el
-- 👀 I’m interested in UI, IA and other stuff
+- 👀 I’m interested in UI, Robotics and other stuff
 - 🌱 I’m currently learning Computer Science
 
 <!---
