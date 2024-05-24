@@ -19,8 +19,8 @@
 </p>
 
 <p align="left">
-  <a href="limadanielpereira@gmail.com" title="Gmail">
+  <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="www.linkedin.com/in/daniel-pereira-lima-199743289" title="LinkedIn">
+  <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/daniel-pereira-lima-199743289" alt="LinkedIn"/></a>
 </p>
