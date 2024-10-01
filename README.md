@@ -2,16 +2,15 @@
 
 <p align="left"> 
   Olá, meu nome é Daniel e no momento curso Ciência da Computação!<br>
-  Estou também fazendo pesquisa na área de Drones e 5G!<br>
-  Foco no momento em <strong>Java, Python e C</strong>.<br>
+  Estou também fazendo estágio como desenvolvedor de operações!<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Java, Python, C, JavaScript.**
+  🦄 Linguagens: **PHP, MySQL, Java, JavaScript**
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Matlab, Gazebo e Ros2**
+  💼 Ferramentas: **PHP com PDO, DBeaver**
 </p>
 
 <p align="left">
@@ -19,8 +18,8 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="mailto:limadanielpereira@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=limadanielpereira@gmail.com" alt="Gmail"/></a>
+  <a href="www.linkedin.com/in/daniel-pereira-lima-199743289" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/daniel-pereira-lima-199743289" alt="LinkedIn"/></a>
 </p>
