@@ -1,25 +1,21 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+Hi there! 👋
 
-<p align="left"> 
-  Olá, meu nome é Daniel e no momento curso Ciência da Computação!<br>
-  Estou também fazendo estágio como desenvolvedor de operações!<br>
-</p>
+I'm Daniel, a passionate developer and tech enthusiast currently studying Computer Science Bachelor. My interests range from software development to networking technologies, and I'm always eager to learn and experiment with new tools and techniques. I enjoy working on projects that challenge my problem-solving skills and allow me to build efficient and scalable solutions.
+What I Study 📚
 
-<p align="left">
-  🦄 Linguagens: **PHP, MySQL, Java, JavaScript**
-</p>
+I'm currently focused on Front/Back-end aplications, diving deep into concepts like PHP with PDO, MySQL, JavaScript and more. My academic journey has also given me a strong foundation in data structures, including linked lists, hash tables, and algorithms.
+What I Work On 🛠️
 
-<p align="left">
-  💼 Ferramentas: **PHP com PDO, DBeaver**
-</p>
+I love working on both software development and networking projects. Right now, I'm involved in projects that use FreeRTOS with C to manage tasks and synchronization through semaphores. I also work on Java projects, particularly on data structures like stacks, queues, and hash tables.
+Languages and Tools 🖥️
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+Here are some of the languages and technologies I'm comfortable with:
 
-<p align="left">
-  <a href="mailto:limadanielpereira@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=limadanielpereira@gmail.com" alt="Gmail"/></a>
-  <a href="www.linkedin.com/in/daniel-pereira-lima-199743289" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/daniel-pereira-lima-199743289" alt="LinkedIn"/></a>
-</p>
+    Java (Data Structures, Algorithms)
+    C (FreeRTOS, Embedded Systems)
+    HTML/CSS/JavaScript (Web Development)
+    PHP (Back-end Development)
+    SQL (Databases)
+    Python (General Purpose)
+
+Feel free to explore my repositories and reach out if you want to collaborate or discuss any exciting ideas!
