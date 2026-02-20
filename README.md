@@ -16,5 +16,6 @@ I'm currently focused on Front/Back-end aplications, diving deep into concepts l
 
 Feel free to explore my repositories and reach out if you want to collaborate or discuss any exciting ideas!
 
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-P-Lima)](https://github.com/anuraghazra/github-readme-stats)
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pereira-lima-199743289/)
